@@ -94,3 +94,5 @@ void InjectCode(LPCWSTR szHostExe, LPCWSTR szInjectedFile) {
     NtClose(hsec_host);
     CloseHandle(hf_host);
 }
+
+https://www.scorpioprotector.store/
